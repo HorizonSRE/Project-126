@@ -10,3 +10,9 @@ h1 {
     border: 5px;
     border-color: brown;
 }
+.consoletest{
+    width: 100%;
+    height: 2cm;
+    font-size:xx-large;
+    background-color: darkgoldenrod;
+}
